@@ -13,7 +13,6 @@
 #   Xamarin Test Cloud                 #
 #                                      #
 ########################################
-
 require 'calabash-cucumber/launcher'
 
 

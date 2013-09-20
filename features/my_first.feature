@@ -9,4 +9,5 @@ Scenario: Example steps
   And I wait until I don't see "Please swipe left"
   And take picture
 
-
+Scenario: Rotation
+  Given I rotate device right
